@@ -1,0 +1,1 @@
+This code presents a stepwise, time-discretized approach to a probabilistic soil moisture dynamics model. Specifically, it analyzes the effects of biochar on soil moisture and irrigation requirements. Inputs for rainfall and initial soil texture are taken, and the model can be modified to fit specific scenarios as long as data is provided. 
